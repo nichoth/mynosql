@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 var sublevel  = require('level-sublevel/bytewise')
 var pull      = require('pull-stream')
 var pl        = require('pull-level')
